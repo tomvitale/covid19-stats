@@ -10,21 +10,21 @@
 "area": "ABR",
 "nome": "Abruzzo",
 "totale": 1293941,
-"link": "",
+"link": "https://www.ausl.pe.it/Sezione.jsp?idSezione=1390",
 "order": 1
 },
 {
 "area": "BAS",
 "nome": "Basilicata",
 "totale": 553254,
-"link": "",
+"link": "https://www.regione.basilicata.it/giunta/site/giunta/department.jsp?dep=100435&area=3073455&level=0",
 "order": 2
 },
 {
 "area": "CAL",
 "nome": "Calabria",
 "totale": 1894110,
-"link": "",
+"link": "https://www.rcovid19.it/",
 "order": 3
 },
 {
@@ -52,7 +52,7 @@
 "area": "LAZ",
 "nome": "Lazio",
 "totale": 5755700,
-"link": "",
+"link": "https://app.powerbi.com/view?r=eyJrIjoiMzgyMWFlZmMtMzliZS00ZjhkLTgwMTEtMjQ2ZWEzNDdiMzc3IiwidCI6IjY0ZTY0YTY0LWZjNzMtNGIzYy05Mjc4LWFmN2I2OGQ2NjU0NCIsImMiOjl9",
 "order": 7
 },
 {
@@ -73,14 +73,14 @@
 "area": "MAR",
 "nome": "Marche",
 "totale": 1512672,
-"link": "",
+"link": "https://www.regione.marche.it/Entra-in-Regione/Vaccini-Covid/Dati-aggiornati",
 "order": 10
 },
 {
 "area": "MOL",
 "nome": "Molise",
 "totale": 300516,
-"link": "",
+"link": "https://adesionivaccinazionicovid.regione.molise.it/app/f?p=300:92",
 "order": 11
 },
 {
